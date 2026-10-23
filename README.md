@@ -129,6 +129,10 @@ More projects will be added as they become documented and ready to share.
   <img src="https://streak-stats.demolab.com?user=calixto-sxz&hide_border=true&background=0D1117&ring=00E5A8&fire=00E5A8&currStreakLabel=00E5A8&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/calixto-sxz/calixto-sxz/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</div>
+
 ---
 
 <div align="center">
